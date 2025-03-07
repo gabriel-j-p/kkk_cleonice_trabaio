@@ -23,114 +23,84 @@ body {
 }
 
 #cor1 {
-    background-color: #FF5733;
+    background-color: #000000;
 }
 
 #cor2 {
-    background-color: #33FF57;
+    background-color: #808080;
 }
 
 #cor3 {
-    background-color: #3357FF;
+    background-color: #6A5ACD;
 }
 
 #cor4 {
-    background-color: #F1C40F;
+    background-color: #6959CD ;
 }
 #cor5 {
-    background-color: #FF5733;
+    background-color: #000080;
 }
 
 #cor6 {
-    background-color: #33FF57;
+    background-color:#0000FF;
 }
 
 #cor7 {
-    background-color: #3357FF;
+    background-color: #00BFFF;
 }
 
 #cor8 {
-    background-color: #F1C40F;
+    background-color: #87CEEB ;
 }
 #cor9 {
-    background-color: #FF5733;
+    background-color: #B0C4DE;
 }
 
 #cor10 {
-    background-color: #33FF57;
+    background-color: #00FFFF;
 }
 
 #cor11 {
-    background-color: #3357FF;
+    background-color: #40E0D0;
 }
 
 #cor12 {
-    background-color: #F1C40F;
+    background-color:#20B2AA ;
 }
 #cor13 {
-    background-color: #FF5733;
+    background-color: #008080;
 }
 
 #cor14 {
-    background-color: #33FF57;
+    background-color: #66CDAA;
 }
 
 #cor15 {
-    background-color: #3357FF;
+    background-color: #2F4F4F ;
 }
 
 #cor16 {
-    background-color: #F1C40F;
+    background-color: #98FB98;
 }
 #cor17 {
-    background-color: #FF5733;
+    background-color: #32CD32;
 }
 
 #cor18 {
-    background-color: #33FF57;
+    background-color: #00FF00 ;
 }
 
 #cor19 {
-    background-color: #3357FF;
+    background-color: #ADFF2F;
 }
 
 #cor20 {
-    background-color: #F1C40F;
+    background-color: #FFC0CB;
 }
 #cor21 {
-    background-color: #FF5733;
+    background-color: #FFB6C1;
 }
 
 #cor22 {
-    background-color: #33FF57;
-}
-
-#cor23 {
-    background-color: #3357FF;
-}
-
-#cor24 {
-    background-color: #F1C40F;
-}
-#cor25 {
-    background-color: #FF5733;
-}
-
-#cor26 {
-    background-color: #33FF57;
-}
-
-#cor27 {
-    background-color: #3357FF;
-}
-
-#cor28 {
-    background-color: #F1C40F;
-}
-#cor29 {
-    background-color: #FF5733;
-}
-
-#cor30 {
-    background-color: #33FF57;
+    background-color:#FF7F50;
 }
